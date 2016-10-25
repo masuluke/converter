@@ -1,0 +1,17 @@
+1. How to install mysql-> follow the link
+https://www.tutorialspoint.com/mysql/mysql-installation.htm
+after installing MySQL
+create database schema called converter_db
+user name = root
+password = password
+
+2. clone or download zip
+how to clone project 
+$ git clone https://github.com/masuluke/converter.git
+
+
+3. open project on eclipse
+4. debug project
+
+
+
